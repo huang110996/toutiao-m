@@ -1,10 +1,6 @@
 <template>
-  <div id="app">
-    <router-view />
-    <h1>黑马头条</h1>
-    <div>
-      <i class="iconfont icon-dianzan"></i>
-    </div>
+  <div>
+    <router-view></router-view>
   </div>
 </template>
 
